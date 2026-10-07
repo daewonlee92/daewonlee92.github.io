@@ -1,0 +1,23 @@
+---
+title: "Dae-Won Lee"
+subtitle: "Research Fellow \u00b7 Korea Institute for Advanced Study"
+---
+
+::: {.profile-contact}
+[daewonlee@kias.re.kr](mailto:daewonlee@kias.re.kr) · [Curriculum vitae](cv.qmd)
+:::
+
+I am a research fellow at the Korea Institute for Advanced Study (KIAS), under the mentorship of Young-Hoon Kiem. I joined KIAS in September 2026. Before joining KIAS, I was a research fellow at Ewha Womans University.
+
+## Research interests
+
+- Algebraic geometry
+- Birational geometry
+- Minimal model program
+- Derived categories
+- Birational geometry in positive characteristic
+- Foliation theory
+
+::: {.section-link}
+[Publications and preprints →](research.qmd)
+:::

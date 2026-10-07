@@ -1,0 +1,50 @@
+---
+title: "Curriculum vitae"
+toc: true
+toc-title: "On this page"
+---
+
+## Positions
+
+### Research Fellow, KIAS
+
+::: {.cv-date}
+September 2026–present
+:::
+
+### Research Fellow, Ewha Womans University
+
+::: {.cv-date}
+March 2023–August 2026
+:::
+
+## Education
+
+### Ph.D. in Mathematics
+
+Yonsei University, Republic of Korea
+
+::: {.cv-date}
+September 2016–February 2023
+:::
+
+Advisor: Sung Rak Choi
+
+### B.S. in Chemical Engineering
+
+Sungkyunkwan University, Republic of Korea
+
+::: {.cv-date}
+March 2011–August 2015
+:::
+
+## Awards
+
+- BK21 Poster Presentation Award — highest distinction (최우수상), Yonsei University, 2021.
+- [Sungkyun Family Award](https://www.skku.edu/main_renew/campus/skk_comm/news.do?mode=view&articleNo=14585&article.offset=0&articleLimit=10) — excellence award (우수상), Sungkyunkwan University, 2014.
+
+## Doctoral thesis
+
+[On the classification of algebraic varieties via derived category and complexity](https://www-riss-kr.access.yonsei.ac.kr:8443/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=da4065b4ee2326dcffe0bdc3ef48d419&keyword=%EC%9D%B4%EB%8C%80%EC%9B%90)
+
+Yonsei University, 2023.

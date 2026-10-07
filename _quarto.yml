@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - research.qmd
+    - cv.qmd
+    - conferences.qmd
+website:
+  title: "Dae-Won Lee"
+  search: false
+  navbar:
+    background: light
+    collapse: true
+    left: []
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: conferences.qmd
+        text: Traveling
+  page-footer:
+    left: "Dae-Won Lee · Korea Institute for Advanced Study"
+    right:
+      - text: "Original homepage"
+        href: https://sites.google.com/yonsei.ac.kr/daewonlee
+format:
+  html:
+    theme:
+      - litera
+      - theme.scss
+    toc: false
+    link-external-newwindow: false
+    anchor-sections: false
+    smooth-scroll: true
+    code-copy: false
+    lang: en
+    grid:
+      body-width: 820px
+      margin-width: 220px
+      gutter-width: 2rem

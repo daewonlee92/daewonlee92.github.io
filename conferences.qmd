@@ -1,0 +1,67 @@
+---
+title: "Traveling"
+toc: true
+toc-title: "On this page"
+---
+
+Conferences, seminars, and research visits I would attend or have attended. Roles as speaker, poster presenter, or organizer are indicated where recorded.
+
+## 2026 {#year-2026}
+
+<ul class="event-list">
+<li><span class="event-date">August 20–26</span><span class="event-content">Research visit<span class="event-place"> · Hirosaki University</span></span></li>
+<li><span class="event-date">July 6–10</span><span class="event-content"><a href="https://sites.google.com/sheffield.ac.uk/lms-sheffield-2026/home">Rationality problems, Cremona groups, and motivic invariants</a><span class="event-place"> · University of Sheffield</span></span></li>
+<li><span class="event-date">May 22</span><span class="event-content"><a href="https://www.math.kyoto-u.ac.jp/ja/event/seminar/6011">Algebraic Geometry seminar</a><span class="event-place"> · Kyoto University</span><span class="event-role"> · Speaker</span></span></li>
+<li><span class="event-date">May 21–26</span><span class="event-content">Research visit<span class="event-place"> · Kyoto University</span></span></li>
+<li><span class="event-date">May 7–10</span><span class="event-content">Research visit<span class="event-place"> · Gakushuin University</span></span></li>
+<li><span class="event-date">April 2–3</span><span class="event-content">AG seminar<span class="event-place"> · IBS-CCG</span><span class="event-role"> · Speaker</span></span></li>
+<li><span class="event-date">March 4–6</span><span class="event-content"><a href="https://dubouloz.perso.math.cnrs.fr/Confs/AAG-24-Hirosaki-2026/index.html">The 24th Affine Algebraic Geometry</a><span class="event-place"> · Hirosaki University</span><span class="event-role"> · Speaker</span></span></li>
+<li><span class="event-date">February 4–13</span><span class="event-content">Research visit<span class="event-place"> · Hirosaki University</span></span></li>
+<li><span class="event-date">January 26–29</span><span class="event-content"><a href="https://sites.google.com/view/ba-geometry-incheon">Birational and Affine Geometry</a><span class="event-place"> · Songdo</span><span class="event-role"> · Organizer</span></span></li>
+</ul>
+
+## 2025 {#year-2025}
+
+<ul class="event-list">
+<li><span class="event-date">December 21–23</span><span class="event-content"><a href="http://events.kias.re.kr/h/SAG25/">2025 Symposium in Algebraic Geometry</a><span class="event-place"> · Busan</span></span></li>
+<li><span class="event-date">December 15–19</span><span class="event-content"><a href="https://sites.google.com/view/derived-yonsei">School and Workshop on Derived Category</a><span class="event-place"> · Yonsei University</span></span></li>
+<li><span class="event-date">November 10–14</span><span class="event-content"><a href="https://sites.google.com/ncts.ntu.edu.tw/2025-algebraic-geometry-in/2025-agea">2025 Algebraic Geometry in East Asia</a><span class="event-place"> · NCKU</span><span class="event-role"> · Speaker</span></span></li>
+<li><span class="event-date">October 21–24</span><span class="event-content"><a href="https://sites.google.com/view/kinosaki2025/%E3%83%9B%E3%83%BC%E3%83%A0">Kinosaki Algebraic Geometry Symposium 2025</a><span class="event-place"> · Kinosaki</span></span></li>
+<li><span class="event-date">September 8–12</span><span class="event-content"><a href="https://sites.google.com/view/bologna25algtropcurves/home-page">Algebraic and tropical geometry of moduli spaces of curves</a><span class="event-place"> · Università di Bologna</span></span></li>
+<li><span class="event-date">March 24–28</span><span class="event-content">2025 Pohang Worshop on Birational Geometry<span class="event-place"> · IBS-CGP</span></span></li>
+<li><span class="event-date">March 3–7</span><span class="event-content"><a href="https://conferences.cirm-math.fr/3167.html">Winter school on K-stability</a><span class="event-place"> · CIRM</span></span></li>
+<li><span class="event-date">February 9–13</span><span class="event-content"><a href="https://sites.google.com/view/conference-ab-geometry">Conference - Affine geometry and Birational geometry</a><span class="event-place"> · Gangneung</span><span class="event-role"> · Speaker</span></span></li>
+<li><span class="event-date">February 3–7</span><span class="event-content">Workshop on Fano spherical varieties<span class="event-place"> · Yonsei University</span></span></li>
+</ul>
+
+## 2024 {#year-2024}
+
+<ul class="event-list">
+<li><span class="event-date">December 26–28</span><span class="event-content"><a href="http://events.kias.re.kr/h/SAG2024/">2024 Symposium in Algebraic Geometry</a><span class="event-place"> · Busan</span></span></li>
+<li><span class="event-date">November 4–8</span><span class="event-content"><a href="https://sites.google.com/view/crpag/home?authuser=0">Conference on Recent Progress in Algebraic Geometry</a><span class="event-place"> · Gangneung</span></span></li>
+<li><span class="event-date">August 20–23</span><span class="event-content"><a href="https://cgp.ibs.re.kr/conferences/2024SMSAG/">Summer mini-school on algebraic geometry</a><span class="event-place"> · IBS-CGP</span></span></li>
+<li><span class="event-date">July 22–25</span><span class="event-content"><a href="https://sites.google.com/view/cgag2024s">Joint workshop on Algebraic and Complex Geometry</a><span class="event-place"> · Pusan National University</span></span></li>
+<li><span class="event-date">February 21–29</span><span class="event-content"><a href="https://ccg.ibs.re.kr/event/2024-02-21-29/">School and workshop on Moduli, K-trivial varieties, and related topics</a><span class="event-place"> · IBS-CCG</span></span></li>
+<li><span class="event-date">January 17–19 &amp; 22–26</span><span class="event-content"><a href="https://sites.google.com/view/2024-csbkr/home">Conference on Singularity and Birational Geometry</a><span class="event-place"> · Yonsei University</span></span></li>
+<li><span class="event-date">January 10–14</span><span class="event-content"><a href="https://lehmannb3.wixsite.com/james-60">Higher-dimensional Algebraic Geometry</a><span class="event-place"> · UCSD</span></span></li>
+<li><span class="event-date">January 3–5</span><span class="event-content"><a href="http://events.kias.re.kr/h/SAG24/">2023 Symposium in Algebraic Geometry</a><span class="event-place"> · Busan</span><span class="event-role"> · Speaker</span></span></li>
+</ul>
+
+## 2023 {#year-2023}
+
+<ul class="event-list">
+<li><span class="event-date">December 11–15</span><span class="event-content">Stability and Enumerative Geometry Workshop<span class="event-place"> · University of Oslo</span></span></li>
+<li><span class="event-date">November 27–December 1</span><span class="event-content">Birational Geometry and Algebraic Dynamics<span class="event-place"> · University of Tokyo</span></span></li>
+<li><span class="event-date">October 30–November 3</span><span class="event-content">Fano varieties, their Geometry and Moduli<span class="event-place"> · KIAS</span></span></li>
+<li><span class="event-date">October 10–13</span><span class="event-content">International workshop on Birational Geometry<span class="event-place"> · Nagoya University</span></span></li>
+<li><span class="event-date">September 11–15</span><span class="event-content">A Journey through Algebraic and Complex Geometry<span class="event-place"> · Buyeo</span><span class="event-role"> · Poster presenter</span></span></li>
+<li><span class="event-date">August 15–18</span><span class="event-content">Conferences on Derived Categories and Singularities in Algebraic Geometry<span class="event-place"> · Gangneung</span><span class="event-role"> · Speaker</span></span></li>
+<li><span class="event-date">July 3–7</span><span class="event-content">GAeL XXX<span class="event-place"> · University of Warwick</span></span></li>
+<li><span class="event-date">June 20–23</span><span class="event-content">Workshop on moduli spaces, virtual invariants and shifted symplectic structures<span class="event-place"> · KIAS</span></span></li>
+<li><span class="event-date">May 30–June 1</span><span class="event-content">Exploring Algebraic Geometry &amp; Topology<span class="event-place"> · Yangpyeong</span><span class="event-role"> · Organizer</span></span></li>
+<li><span class="event-date">May 15–19</span><span class="event-content">Workshop on Moduli, K-stability, Fano varieties, and related topics<span class="event-place"> · IBS-CCG</span></span></li>
+<li><span class="event-date">April 27–29</span><span class="event-content">2023 KMS Spring Meeting<span class="event-place"> · Daejeon</span><span class="event-role"> · Speaker</span></span></li>
+<li><span class="event-date">April 18–21</span><span class="event-content">JJAG 3 (JeonJu Algebraic Geometry 3)<span class="event-place"> · JeonJu University</span><span class="event-role"> · Speaker</span></span></li>
+<li><span class="event-date">March 30–April 1</span><span class="event-content">Budding workshop in Algebraic Geometry<span class="event-place"> · Dongtan</span><span class="event-role"> · Speaker</span></span></li>
+</ul>
+

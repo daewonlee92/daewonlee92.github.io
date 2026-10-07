@@ -1,0 +1,6 @@
+.DS_Store
+.quarto/
+*_files/
+
+/.quarto/
+**/*.quarto_ipynb

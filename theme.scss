@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+$body-bg: #ffffff;
+$body-color: #2c3034;
+$link-color: #7c2940;
+$font-size-base: 1.075rem;
+$headings-font-family: Georgia, "Times New Roman", serif;
+$headings-font-weight: 400;
+$navbar-bg: #ffffff;
+$navbar-fg: #2c3034;
+$navbar-hl: #7c2940;
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #e6e6e6; padding-top: 1rem; padding-bottom: 1rem; }
+.navbar-brand { font-family: Georgia, "Times New Roman", serif; font-size: 1.4rem; }
+.navbar-nav .nav-link { font-size: .9rem; }
+#quarto-content { padding-top: 2.8rem; }
+#title-block-header { margin-bottom: 2.4rem; }
+h1.title { font-size: 2.9rem; font-weight: 400; letter-spacing: -.03em; }
+.subtitle { color: #666b70; font-size: 1.1rem; margin-top: .5rem; }
+h2 { margin-top: 2.7rem; padding-bottom: .55rem; border-bottom: 1px solid #e6e6e6; font-size: 1.75rem; font-weight: 400; }
+h3 { font-size: 1.35rem; font-weight: 400; }
+.profile-contact { font-family: system-ui, sans-serif; font-size: .9rem; margin-bottom: 2rem; }
+.paper-list ol { padding-left: 1.6rem; }
+.paper-list li { padding-left: .35rem; margin-bottom: 1.5rem; }
+.paper-list li > p:first-child { margin-bottom: .35rem; }
+.paper-list li > p:first-child a { color: #2c3034; text-decoration: none; white-space: normal; overflow-wrap: anywhere; }
+.paper-list li > p:first-child a:hover { color: #7c2940; text-decoration: underline; }
+.paper-meta { font-family: system-ui, sans-serif; font-size: .84rem; line-height: 1.65; color: #666b70; }
+.paper-meta p { margin-bottom: .25rem; }
+.paper-meta p, .profile-contact p, .section-link p { font-family: system-ui, sans-serif; }
+.paper-meta a { font-size: .8rem; }
+.section-link { font-family: system-ui, sans-serif; font-size: .85rem; margin-top: -.4rem; }
+.cv-date, .event-date, .event-role { font-family: system-ui, sans-serif; font-size: .8rem; color: #666b70; }
+.event-list { list-style: none; padding-left: 0; }
+.event-list li { margin-bottom: 1.4rem; }
+.event-list .event-date { display: block; margin-bottom: .15rem; }
+.event-list .event-content { display: block; overflow-wrap: break-word; }
+.event-list .event-place { display: inline; font: inherit; color: #666b70; }
+.event-role { color: #7c2940; }
+.nav-footer { font-family: system-ui, sans-serif; font-size: .75rem; border-top: 1px solid #e6e6e6; margin-top: 3rem; }
+@media (max-width: 767px) {
+  #quarto-content { padding-top: 1.5rem; }
+  h1.title { font-size: 2.35rem; }
+  h2 { font-size: 1.55rem; margin-top: 2.3rem; }
+  .subtitle { font-size: 1rem; }
+  .paper-list li { padding-left: .1rem; }
+}

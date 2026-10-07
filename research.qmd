@@ -1,0 +1,181 @@
+---
+title: "Publications & preprints"
+toc: true
+toc-title: "On this page"
+---
+
+Publications and preprints in algebraic geometry.
+
+## Publications {#publications}
+
+::: {.paper-list}
+
+1. [A valuative approach to the anticanonical minimal model program](https://arxiv.org/abs/2506.13637)
+
+   ::: {.paper-meta}
+   with S. Choi, S. Jang and D. Kim
+
+   to appear in Adv. Math.
+
+   [arXiv:2506.13637](https://arxiv.org/abs/2506.13637)
+   :::
+
+1. [K-stability of del Pezzo surfaces with a single quotient singularity](https://doi.org/10.1112/jlms.70687)
+
+   ::: {.paper-meta}
+   with I.-K. Kim
+
+   J. Lond. Math. Soc. volume 114, issue 3: e70687.
+
+   [Journal](https://doi.org/10.1112/jlms.70687)
+   :::
+
+1. [Cylinders in Du Val del Pezzo surfaces of degree one with Picard rank two](https://arxiv.org/abs/2512.01285)
+
+   ::: {.paper-meta}
+   with J. Kim and M. Sawahara
+
+   to appear in EMS Surv. Math. Sci.
+
+   [arXiv:2512.01285](https://arxiv.org/abs/2512.01285)
+   :::
+
+1. [On minimal model program and Zariski decomposition of potential triples](https://doi.org/10.11650/tjm/250406)
+
+   ::: {.paper-meta}
+   with S. Choi and S. Jang
+
+   Taiwanese. J. Math. vol. 29, no. 6, (2025), 1261-1274.
+
+   [Journal](https://doi.org/10.11650/tjm/250406)
+   :::
+
+1. [Characterizations of Fano type varieties and projective spaces via absolute complexity](https://doi.org/10.1007/s00229-023-01526-y)
+
+   ::: {.paper-meta}
+   Manuscripta Math. volume 174, pages 731-747, (2024).
+
+   [Journal](https://doi.org/10.1007/s00229-023-01526-y)
+   :::
+
+1. [Classification of full exceptional collections on smooth toric Fano varieties with Picard rank two](https://doi.org/10.1515/advgeom-2022-0025)
+
+   ::: {.paper-meta}
+   Adv. Geom. vol. 23, no. 1, (2023), 25-49.
+
+   [Journal](https://doi.org/10.1515/advgeom-2022-0025)
+   :::
+
+:::
+
+## Preprints {#preprints}
+
+::: {.paper-list}
+
+1. [Semiample perturbations over arbitrary fields](https://arxiv.org/abs/2610.07908)
+
+   ::: {.paper-meta}
+   submitted.
+
+   [arXiv:2610.07908](https://arxiv.org/abs/2610.07908)
+   :::
+
+1. [Mori dream fibers and the geometric generic fiber](https://arxiv.org/abs/2609.17103)
+
+   ::: {.paper-meta}
+   with M. Nagaoka
+
+   submitted.
+
+   [arXiv:2609.17103](https://arxiv.org/abs/2609.17103)
+   :::
+
+1. [Coupled Pklt Tuples and Varieties of Pklt Type](https://arxiv.org/abs/2609.11107)
+
+   ::: {.paper-meta}
+   with D. Kim
+
+   submitted.
+
+   [arXiv:2609.11107](https://arxiv.org/abs/2609.11107)
+   :::
+
+1. [Hilbert schemes of low-degree rational curves on a prime Fano threefold of degree 22](https://arxiv.org/abs/2609.08176)
+
+   ::: {.paper-meta}
+   with K. Chung
+
+   submitted.
+
+   [arXiv:2609.08176](https://arxiv.org/abs/2609.08176)
+   :::
+
+1. [Flexibility of affine cones over blow-ups of weighted projective planes](https://arxiv.org/abs/2609.02500)
+
+   ::: {.paper-meta}
+   with I.-K. Kim and M. Sawahara
+
+   submitted.
+
+   [arXiv:2609.02500](https://arxiv.org/abs/2609.02500)
+   :::
+
+1. [On the quasi-monomiality of α- and δ-invariants](https://arxiv.org/abs/2604.18465v3)
+
+   ::: {.paper-meta}
+   with D. Kim
+
+   submitted.
+
+   [arXiv:2604.18465v3](https://arxiv.org/abs/2604.18465v3)
+   :::
+
+1. [Structure of the anticanonical minimal model program for potentially klt pairs](https://arxiv.org/abs/2604.05369)
+
+   ::: {.paper-meta}
+   with D. Kim
+
+   submitted.
+
+   [arXiv:2604.05369](https://arxiv.org/abs/2604.05369)
+   :::
+
+1. [Cylindricity of weighted singular del Pezzo surfaces over fields of characteristic zero](https://arxiv.org/abs/2512.20134)
+
+   ::: {.paper-meta}
+   with I.-K. Kim and M. Sawahara
+
+   submitted.
+
+   [arXiv:2512.20134v2](https://arxiv.org/abs/2512.20134)
+   :::
+
+1. [Minimal model program on the generic fiber of log Calabi-Yau fibration](https://arxiv.org/abs/2512.02429)
+
+   ::: {.paper-meta}
+   with D. Kim
+
+   submitted.
+
+   [arXiv:2512.02429](https://arxiv.org/abs/2512.02429)
+   :::
+
+1. [Anticanonical divisor with good asymptotic base loci](https://arxiv.org/abs/2411.04628)
+
+   ::: {.paper-meta}
+   with S. Choi and S. Jang
+
+   submitted.
+
+   [arXiv:2411.04628](https://arxiv.org/abs/2411.04628)
+   :::
+
+:::
+
+## Thesis & supplementary material {#thesis}
+
+[On the classification of algebraic varieties via derived category and complexity](https://www-riss-kr.access.yonsei.ac.kr:8443/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=da4065b4ee2326dcffe0bdc3ef48d419&keyword=%EC%9D%B4%EB%8C%80%EC%9B%90)
+
+Ph.D. thesis, Yonsei University, 2023.
+
+[Appendix to classification of full exceptional collections on smooth toric Fano varieties with Picard rank two.](https://drive.google.com/file/d/1QQ5haVQBeCjr2WMFavIl71oUjUGN507n/view?usp=sharing)
