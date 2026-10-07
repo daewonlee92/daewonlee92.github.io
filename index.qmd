@@ -15,7 +15,7 @@ I am a research fellow at the Korea Institute for Advanced Study (KIAS), under t
 - Birational geometry
 - Minimal model program
 - Derived categories
-- Birational geometry in positive characteristic
+- Valuation theory
 - Foliation theory
 
 ::: {.section-link}

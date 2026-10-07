@@ -24,9 +24,6 @@ website:
         text: Traveling
   page-footer:
     left: "Dae-Won Lee · Korea Institute for Advanced Study"
-    right:
-      - text: "Original homepage"
-        href: https://sites.google.com/yonsei.ac.kr/daewonlee
 format:
   html:
     theme:
