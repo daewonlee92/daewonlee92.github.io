@@ -4,8 +4,6 @@ toc: true
 toc-title: "On this page"
 ---
 
-Publications and preprints in algebraic geometry.
-
 ## Publications {#publications}
 
 ::: {.paper-list}
@@ -15,7 +13,7 @@ Publications and preprints in algebraic geometry.
    ::: {.paper-meta}
    with D. Kim
 
-   To appear in Taiwanese. J. Math. [arXiv:2604.05369](https://arxiv.org/abs/2604.05369)
+   To appear in Taiwanese J. Math. [arXiv:2604.05369](https://arxiv.org/abs/2604.05369)
    :::
 
 2. A valuative approach to the anticanonical minimal model program
@@ -23,7 +21,7 @@ Publications and preprints in algebraic geometry.
    ::: {.paper-meta}
    with S. Choi, S. Jang and D. Kim
 
-   Adv. Math., Volume 505, 111307 (2026). [Journal](https://doi.org/10.1016/j.aim.2026.111307)
+   Adv. Math. 505 (2026), 111307. [Journal](https://doi.org/10.1016/j.aim.2026.111307)
    :::
 
 3. K-stability of del Pezzo surfaces with a single quotient singularity
@@ -31,7 +29,7 @@ Publications and preprints in algebraic geometry.
    ::: {.paper-meta}
    with I.-K. Kim
 
-   J. Lond. Math. Soc. volume 114, issue 3: e70687. [Journal](https://doi.org/10.1112/jlms.70687)
+   J. Lond. Math. Soc. volume 114, issue 3 (2026): e70687. [Journal](https://doi.org/10.1112/jlms.70687)
    :::
 
 4. Cylinders in Du Val del Pezzo surfaces of degree one with Picard rank two
@@ -47,7 +45,7 @@ Publications and preprints in algebraic geometry.
    ::: {.paper-meta}
    with S. Choi and S. Jang
 
-   Taiwanese. J. Math. vol. 29, no. 6, (2025), 1261-1274. [Journal](https://doi.org/10.11650/tjm/250406)
+   Taiwanese J. Math. vol. 29, no. 6, (2025), 1261-1274. [Journal](https://doi.org/10.11650/tjm/250406)
    :::
 
 6. Characterizations of Fano type varieties and projective spaces via absolute complexity
@@ -106,7 +104,7 @@ Publications and preprints in algebraic geometry.
    submitted. [arXiv:2609.02500](https://arxiv.org/abs/2609.02500)
    :::
 
-6. On the quasi-monomiality of α- and δ-invariants
+6. On quasi-monomiality of the α- and δ-invariants
 
    ::: {.paper-meta}
    with D. Kim
@@ -119,10 +117,10 @@ Publications and preprints in algebraic geometry.
    ::: {.paper-meta}
    with I.-K. Kim and M. Sawahara
 
-   submitted. [arXiv:2512.20134v2](https://arxiv.org/abs/2512.20134)
+   submitted. [arXiv:2512.20134](https://arxiv.org/abs/2512.20134)
    :::
 
-8. Minimal model program on the generic fiber of log Calabi-Yau fibration
+8. Minimal model program on the generic fiber of log Calabi-Yau type fibration
 
    ::: {.paper-meta}
    with D. Kim
