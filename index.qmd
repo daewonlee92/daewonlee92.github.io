@@ -2,6 +2,9 @@
 title: "Dae-Won Lee"
 description: "My research interests lie broadly in algebraic geometry, with an emphasis on birational geometry."
 hide-description: true
+include-in-header:
+  text: |
+    <meta name="google-site-verification" content="vKOrolcB4r6mJ3y9AFU57G1YT8x3MfQFKat-1D2iKwM" />
 subtitle: "Research Fellow \u00b7 Korea Institute for Advanced Study"
 ---
 
