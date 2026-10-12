@@ -1,5 +1,7 @@
 ---
 title: "Dae-Won Lee"
+description: "My research interests lie broadly in algebraic geometry, with an emphasis on birational geometry."
+hide-description: true
 subtitle: "Research Fellow \u00b7 Korea Institute for Advanced Study"
 ---
 

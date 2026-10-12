@@ -8,6 +8,9 @@ project:
     - conferences.qmd
 website:
   title: "Dae-Won Lee"
+  description: "My research interests lie broadly in algebraic geometry, with an emphasis on birational geometry."
+  site-url: "https://daewonlee92.github.io/"
+  open-graph: true
   search: false
   navbar:
     background: light
@@ -26,6 +29,7 @@ website:
     left: "Dae-Won Lee · Korea Institute for Advanced Study"
 format:
   html:
+    canonical-url: true
     theme:
       - litera
       - theme.scss
