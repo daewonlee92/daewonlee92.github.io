@@ -37,7 +37,7 @@ toc-title: "On this page"
    ::: {.paper-meta}
    with J. Kim and M. Sawahara
 
-   to appear in EMS Surv. Math. Sci. [arXiv:2512.01285](https://arxiv.org/abs/2512.01285)
+   EMS Surv. Math. Sci. (2026), published online first. [Journal](https://doi.org/10.4171/EMSS/132) [arXiv:2512.01285](https://arxiv.org/abs/2512.01285)
    :::
 
 5. On minimal model program and Zariski decomposition of potential triples
