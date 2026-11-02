@@ -1,5 +1,5 @@
 ---
-title: "Publications & preprints"
+title: "Research"
 toc: true
 toc-title: "On this page"
 ---
@@ -140,7 +140,7 @@ toc-title: "On this page"
 
 ## Thesis & supplementary material {#thesis}
 
-[On the classification of algebraic varieties via derived category and complexity](https://www-riss-kr.access.yonsei.ac.kr:8443/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=da4065b4ee2326dcffe0bdc3ef48d419&keyword=%EC%9D%B4%EB%8C%80%EC%9B%90)
+[On the classification of algebraic varieties via derived category and complexity](https://www.riss.kr/link?id=T16627082)
 
 Ph.D. thesis, Yonsei University, 2023.
 

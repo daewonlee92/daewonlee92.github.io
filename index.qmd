@@ -2,6 +2,7 @@
 title: "Dae-Won Lee"
 description: "My research interests lie broadly in algebraic geometry, with an emphasis on birational geometry."
 hide-description: true
+body-classes: home
 include-in-header:
   text: |
     <meta name="google-site-verification" content="vKOrolcB4r6mJ3y9AFU57G1YT8x3MfQFKat-1D2iKwM" />
@@ -9,7 +10,7 @@ subtitle: "Research Fellow \u00b7 Korea Institute for Advanced Study"
 ---
 
 ::: {.profile-contact}
-[daewonlee@kias.re.kr](mailto:daewonlee@kias.re.kr) · [Curriculum vitae](cv.qmd)
+[daewonlee@kias.re.kr](mailto:daewonlee@kias.re.kr)
 :::
 
 I am a research fellow at the Korea Institute for Advanced Study (KIAS), under the mentorship of Young-Hoon Kiem. I joined KIAS in September 2026. Before joining KIAS, I was a research fellow at Ewha Womans University.
@@ -22,7 +23,3 @@ I am a research fellow at the Korea Institute for Advanced Study (KIAS), under t
 - Derived categories
 - Valuation theory
 - Foliation theory
-
-::: {.section-link}
-[Publications and preprints →](research.qmd)
-:::
