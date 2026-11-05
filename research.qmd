@@ -66,13 +66,21 @@ toc-title: "On this page"
 
 ::: {.paper-list}
 
-1. Semiample perturbations over arbitrary fields
+1. Admissible extremal rays and the anticanonical minimal model program
+
+   ::: {.paper-meta}
+   with S. Choi and S. Jang
+
+   [arXiv:2611.04145](https://arxiv.org/abs/2611.04145)
+   :::
+
+2. Semiample perturbations over arbitrary fields
 
    ::: {.paper-meta}
    submitted. [arXiv:2610.07908](https://arxiv.org/abs/2610.07908)
    :::
 
-2. Mori dream fibers and the geometric generic fiber
+3. Mori dream fibers and the geometric generic fiber
 
    ::: {.paper-meta}
    with M. Nagaoka
@@ -80,7 +88,7 @@ toc-title: "On this page"
    submitted. [arXiv:2609.17103](https://arxiv.org/abs/2609.17103)
    :::
 
-3. Coupled Pklt Tuples and Varieties of Pklt Type
+4. Coupled Pklt Tuples and Varieties of Pklt Type
 
    ::: {.paper-meta}
    with D. Kim
@@ -88,7 +96,7 @@ toc-title: "On this page"
    submitted. [arXiv:2609.11107](https://arxiv.org/abs/2609.11107)
    :::
 
-4. Hilbert schemes of low-degree rational curves on a prime Fano threefold of degree 22
+5. Hilbert schemes of low-degree rational curves on a prime Fano threefold of degree 22
 
    ::: {.paper-meta}
    with K. Chung
@@ -96,7 +104,7 @@ toc-title: "On this page"
    submitted. [arXiv:2609.08176](https://arxiv.org/abs/2609.08176)
    :::
 
-5. Flexibility of affine cones over blow-ups of weighted projective planes
+6. Flexibility of affine cones over blow-ups of weighted projective planes
 
    ::: {.paper-meta}
    with I.-K. Kim and M. Sawahara
@@ -104,7 +112,7 @@ toc-title: "On this page"
    submitted. [arXiv:2609.02500](https://arxiv.org/abs/2609.02500)
    :::
 
-6. On quasi-monomiality of the α- and δ-invariants
+7. On quasi-monomiality of the α- and δ-invariants
 
    ::: {.paper-meta}
    with D. Kim
@@ -112,7 +120,7 @@ toc-title: "On this page"
    submitted. [arXiv:2604.18465v3](https://arxiv.org/abs/2604.18465v3)
    :::
 
-7. Cylindricity of weighted singular del Pezzo surfaces over fields of characteristic zero
+8. Cylindricity of weighted singular del Pezzo surfaces over fields of characteristic zero
 
    ::: {.paper-meta}
    with I.-K. Kim and M. Sawahara
@@ -120,7 +128,7 @@ toc-title: "On this page"
    submitted. [arXiv:2512.20134](https://arxiv.org/abs/2512.20134)
    :::
 
-8. Minimal model program on the generic fiber of log Calabi-Yau type fibration
+9. Minimal model program on the generic fiber of log Calabi-Yau type fibration
 
    ::: {.paper-meta}
    with D. Kim
@@ -128,13 +136,13 @@ toc-title: "On this page"
    submitted. [arXiv:2512.02429](https://arxiv.org/abs/2512.02429)
    :::
 
-9. Anticanonical divisor with good asymptotic base loci
+10. Anticanonical divisor with good asymptotic base loci
 
-   ::: {.paper-meta}
-   with S. Choi and S. Jang
+    ::: {.paper-meta}
+    with S. Choi and S. Jang
 
-   submitted. [arXiv:2411.04628](https://arxiv.org/abs/2411.04628)
-   :::
+    submitted. [arXiv:2411.04628](https://arxiv.org/abs/2411.04628)
+    :::
 
 :::
 
