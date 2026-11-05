@@ -71,7 +71,7 @@ toc-title: "On this page"
    ::: {.paper-meta}
    with S. Choi and S. Jang
 
-   [arXiv:2611.04145](https://arxiv.org/abs/2611.04145)
+   submitted. [arXiv:2611.04145](https://arxiv.org/abs/2611.04145)
    :::
 
 2. Semiample perturbations over arbitrary fields
